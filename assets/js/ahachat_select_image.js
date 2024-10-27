@@ -1,0 +1,1 @@
+jQuery(document).ready(function($) {	try {	$("select.ahachat_list_page").msDropDown();	} catch(e) {	console.log(e.message);	}});

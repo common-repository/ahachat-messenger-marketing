@@ -1,0 +1,1 @@
+jQuery(document).ready(function($) {                $('#ahachat_content_mess').emojioneArea({                    saveEmojisAs: true                });});

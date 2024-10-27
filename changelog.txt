@@ -1,0 +1,4 @@
+February 20, 2020 – Version 1.0
+- Version 1.0 Initial Release
+September 22, 2020 – Version 1.1
+- Version 1.1 Fix some bugs
